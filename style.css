@@ -1,0 +1,54 @@
+h2{
+    color: rgb(93, 52, 72);
+    border: 15px solid rgb(240, 178, 223);
+    padding: 30px;
+    background-image: url("barbie4.jpg");
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+th{
+    color: rgb(13, 2, 2);
+    background-color: rgb(255, 192, 228);
+}
+body {
+    background-color: rgb(216, 159, 203);
+    background-image: url("barbie2.jpg");
+    
+  }
+  
+  td {
+    color: rgb(235, 206, 206);
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  table{
+    height: 30rem;
+    width: 50rem; 
+    border: 15px solid rgb(240, 178, 223);
+    padding: 30px;
+    margin: 40px;
+    
+  }
+  tr {
+    
+    background-color: rgb(221, 150, 185); 
+  }
+  .nama{
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+
+  }
+ .kel1{
+    background-color: rgb(242, 196, 231);
+ }
+ .kel2{
+    color: rgb(182, 98, 134);
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+ }
+
